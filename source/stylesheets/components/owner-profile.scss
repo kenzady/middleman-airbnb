@@ -1,0 +1,53 @@
+.header-flat-name h1, .header-flat-name p, .header-flat-owner, h4 {
+  color: black;
+  opacity: 0.7;
+}
+.banner {
+  background-position: center;
+}
+i {
+  color: $red;
+  font-weight: bold;
+}
+
+.owner-avatar {
+  width: 100px;
+  height: 100px;
+}
+
+.header-flat-owner p {
+  font-size: 14px;
+}
+
+.header-flat-name {
+  padding-left: 15px;
+  h1 {
+    font-size: 18px;
+    font-weight: bold;
+  }
+}
+.header-flat {
+  background-color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-bottom: 1 solid rgba(0, 0, 0, 0.1);
+}
+
+.body {
+  background: white;
+}
+
+.form-container {
+  padding: 25px;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+#flat-description {
+  color: rgba(0, 0, 0, 0.5);
+  padding-bottom: 50px;
+}
+
+#flat-description i {
+    padding-right: 10px;
+}
+

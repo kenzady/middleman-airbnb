@@ -1,0 +1,83 @@
+tgenaitay:
+  name: "Theo's home"
+  description: "Charming room in Sao Paulo"
+  city_name: "Sao Paulo, Bresil"
+  city_slug: "sao-paulo"
+  wifi: false
+  rating: 4
+  accomodates: 4
+  bathrooms: 1
+  bedtype: "Real Bed"
+  beds: 2
+  property_type: "Apartment"
+  room_type: "Entire home/apt"
+  histoire: "This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue"
+ssaunier:
+  name: "Sebastian' home"
+  description: "Small flat in Shanghai"
+  city_name: "Shanghai, China"
+  city_slug: "shanghai"
+  wifi: true
+  rating: 3
+  accomodates: 2
+  bathrooms: 2
+  bedtype: "Single Bed"
+  beds: 2
+  property_type: Apartment
+  room_type: "Entire home/apt"
+  histoire: "This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue"
+atmosfeer:
+  name: Paul's home
+  description: Nice flat in Berlin
+  city_name: "Berlin, Germany"
+  city_slug: "berlin"
+  wifi: true
+  rating: 5
+  accomodates: 3
+  bathrooms: 1
+  bedtype: BZ
+  beds: 1
+  property_type: Apartment
+  room_type: "Entire home/apt"
+  histoire: "This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue"
+MarianneBenkamoun:
+  name: Marianne's home
+  description: Amazing flat in Tokyo
+  city_name: "Tokyo, Japan"
+  city_slug: "tokyo"
+  wifi: false
+  rating: 3
+  accomodates: 2
+  bathrooms: 2
+  beds: 3
+  property_type: Apartment
+  room_type: Entire home/apt
+  histoire: This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue
+ElenaGaDeb:
+  name: Elena's home
+  description: Charming flat in Paris
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: true
+  rating: 5
+  accomodates: 1
+  bathrooms: 1
+  bedtype: Real Bed
+  beds: 2
+  property_type: Apartment
+  room_type: "Entire home/apt"
+  histoire: "This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue"
+dimbouko:
+  name: Elena's home
+  description: Charming flat in Berlin
+  city_name: "Berlin, Germany"
+  city_slug: "berlin"
+  wifi: true
+  rating: 4
+  accomodates: 3
+  bathrooms: 1
+  bedtype: Real Bed
+  beds: 2
+  property_type: Apartment
+  room_type: "Entire home/apt"
+  histoire: "This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue"
